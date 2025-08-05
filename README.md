@@ -11,7 +11,8 @@ Requirements
 Overview
 --------------------------------------------------------------------------------
 
-This repository contains a series of Java programming exercises designed to help you improve your Java skills through hands-on practice.  
+This repository contains a series of Java programming exercises.
+These exercises are designed to help you improve your Java skills through hands-on practice.
 The following mini-games are included:
 
 - Shiritori
@@ -29,7 +30,7 @@ This repository is based on and references the following repository:
 
 - https://github.com/yo1000/java-toybox/
 
-**This is also an example answer to a programming assignment.**  
+**This is also an example answer to a programming assignment**.
 Please follow the MIT License and keep the original copyright notice.
 
 License

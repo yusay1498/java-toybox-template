@@ -57,7 +57,8 @@ Wordle
 
 Wordle with words from the dictionary.
 
-The dictionary uses the following.<br>
+The dictionary uses the following.
+
 https://gist.github.com/dracos/dd0668f281e685bad51479e5acaadb93
 
 ```bash

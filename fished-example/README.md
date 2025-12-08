@@ -7,7 +7,7 @@ Toybox with assortment of Java practice exercises.
 Requirements
 --------------------------------------------------------------------------------
 
-- Java 21
+- Java 25
 
 
 Maze
@@ -92,3 +92,4 @@ tail | あ
 head | あ
 tail | み
 ```
+
